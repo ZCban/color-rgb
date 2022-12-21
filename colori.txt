@@ -1,4 +1,6 @@
+i colori sono in formato decimale rgb 
+n.b per opencv convertirli in bgr (bgr=rgb al contrario )
 verde fluo 163,243,7
 giallo fluo 226,247,5
 magenta fluo 245,11,134
-167,248,21 verde fluo
+verde fluo acceso167,248,21
