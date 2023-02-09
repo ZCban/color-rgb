@@ -6,3 +6,10 @@ magenta fluo 245,11,134
 verde fluo acceso167,248,21
 viola scuro 244, 113, 115
 rosso 255,0,0
+
+
+
+HSV FOR OPENCV 
+VALORANT 
+1 VIOLA = 146.120.160-150.164.194 
+2 VIOLA PIU FILTRATO = 148.120.160-150.164.200 
