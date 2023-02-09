@@ -5,3 +5,4 @@ giallo fluo 226,247,5
 magenta fluo 245,11,134
 verde fluo acceso167,248,21
 viola scuro 244, 113, 115
+rosso 255,0,0
