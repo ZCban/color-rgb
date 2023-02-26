@@ -13,3 +13,16 @@ HSV FOR OPENCV
 VALORANT 
 1 VIOLA = 146.120.160-150.164.194 
 2 VIOLA PIU FILTRATO = 148.120.160-150.164.200 
+
+
+
+
+#purple headshot
+lower1 = ([144, 110, 245])
+upper1 = ([151, 255, 255])
+#purple auto
+lower2 = ([140, 110, 160])
+upper2 = ([152, 200, 200])
+#yellow
+lower3 = ([25, 140, 150])
+upper3 = ([30, 200, 210])
