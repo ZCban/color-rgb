@@ -26,3 +26,7 @@ upper2 = ([152, 200, 200])
 #yellow
 lower3 = ([25, 140, 150])
 upper3 = ([30, 200, 210])
+
+#valorat holografic dead body
+lower2 = np.array([144, 115, 180])([144, 115, 200])
+upper2 = np.array([151, 255, 255])([149, 255, 255])
